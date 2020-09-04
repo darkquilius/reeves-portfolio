@@ -8,7 +8,7 @@ return (
     <div className="flex justify-between">
     <ul className="grid py-1 gird-cols-2">
     <li className="p-2 justify-between">
-      <Link to="/" className="text-blue-300" onClick={props.closeMenu}>
+      <Link to="/reeves-portfolio" className="text-blue-300" onClick={props.closeMenu}>
       <FontAwesomeIcon icon={faMale} /> About Me
       </Link>
     </li>
