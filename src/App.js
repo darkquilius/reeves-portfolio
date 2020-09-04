@@ -12,9 +12,9 @@ function App() {
   <Router  >
     <Header/>
     <Switch >
+        <Route path="/" component={Info} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
-        <Route exact path="*" component={Info} />
     </Switch>
     <Footer />
   </Router>
