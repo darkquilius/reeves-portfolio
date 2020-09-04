@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.bee27362.chunk.css",
-    "main.js": "/static/js/main.c79e5793.chunk.js",
-    "main.js.map": "/static/js/main.c79e5793.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c027e065.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c027e065.js.map",
-    "static/js/2.8e465edf.chunk.js": "/static/js/2.8e465edf.chunk.js",
-    "static/js/2.8e465edf.chunk.js.map": "/static/js/2.8e465edf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ccb1c52a3e1a92646758e570707eeb2d.js": "/precache-manifest.ccb1c52a3e1a92646758e570707eeb2d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bee27362.chunk.css.map": "/static/css/main.bee27362.chunk.css.map",
-    "static/js/2.8e465edf.chunk.js.LICENSE.txt": "/static/js/2.8e465edf.chunk.js.LICENSE.txt",
-    "static/media/Client-Clock-Website.png": "/static/media/Client-Clock-Website.c0264e2d.png",
-    "static/media/Daily-Planner-Website.png": "/static/media/Daily-Planner-Website.35dcd13e.png",
-    "static/media/TeamSprinter.png": "/static/media/TeamSprinter.c787748c.png",
-    "static/media/Weather-Website.png": "/static/media/Weather-Website.ff97f6fc.png",
-    "static/media/myPhoto.png": "/static/media/myPhoto.6738cba1.png"
+    "main.css": "/reeves-portfolio/static/css/main.bee27362.chunk.css",
+    "main.js": "/reeves-portfolio/static/js/main.7275ff97.chunk.js",
+    "main.js.map": "/reeves-portfolio/static/js/main.7275ff97.chunk.js.map",
+    "runtime-main.js": "/reeves-portfolio/static/js/runtime-main.cfac7a12.js",
+    "runtime-main.js.map": "/reeves-portfolio/static/js/runtime-main.cfac7a12.js.map",
+    "static/js/2.8e465edf.chunk.js": "/reeves-portfolio/static/js/2.8e465edf.chunk.js",
+    "static/js/2.8e465edf.chunk.js.map": "/reeves-portfolio/static/js/2.8e465edf.chunk.js.map",
+    "index.html": "/reeves-portfolio/index.html",
+    "precache-manifest.3692d7644fd307c548fa712535657e32.js": "/reeves-portfolio/precache-manifest.3692d7644fd307c548fa712535657e32.js",
+    "service-worker.js": "/reeves-portfolio/service-worker.js",
+    "static/css/main.bee27362.chunk.css.map": "/reeves-portfolio/static/css/main.bee27362.chunk.css.map",
+    "static/js/2.8e465edf.chunk.js.LICENSE.txt": "/reeves-portfolio/static/js/2.8e465edf.chunk.js.LICENSE.txt",
+    "static/media/Client-Clock-Website.png": "/reeves-portfolio/static/media/Client-Clock-Website.c0264e2d.png",
+    "static/media/Daily-Planner-Website.png": "/reeves-portfolio/static/media/Daily-Planner-Website.35dcd13e.png",
+    "static/media/TeamSprinter.png": "/reeves-portfolio/static/media/TeamSprinter.c787748c.png",
+    "static/media/Weather-Website.png": "/reeves-portfolio/static/media/Weather-Website.ff97f6fc.png",
+    "static/media/myPhoto.png": "/reeves-portfolio/static/media/myPhoto.6738cba1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c027e065.js",
+    "static/js/runtime-main.cfac7a12.js",
     "static/js/2.8e465edf.chunk.js",
     "static/css/main.bee27362.chunk.css",
-    "static/js/main.c79e5793.chunk.js"
+    "static/js/main.7275ff97.chunk.js"
   ]
 }
