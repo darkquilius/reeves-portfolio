@@ -22,14 +22,14 @@ let infoArray = [
     {title: "Employee Database Generator",
     text: "This tool lets a company easily keep track of their employees by keeping a database of them that can easily be manipulated. By giving a name, id#, email, role and other information subjunct to the employee's role, companies can take charge of their employees.", 
     gif: "https://giphy.com/embed/J1LOMomVvnKBoQlckh",
-    github:"https://github.com/darkquilius/projecttracker",
-    deployed: "https://github.com/darkquilius/projecttracker"},
+    github:"https://github.com/darkquilius/CLI-Company-Management-CMS",
+    deployed: "https://github.com/darkquilius/CLI-Company-Management-CMS"},
 
     {title: "Client Clock",
     text: "This project was a colabrative effort with my Georgia Tech cohort members to make an exemplary client time tracking application to help with billing. This app was one of the first showcases of my proficiency in HTML, CSS, JS, local storage, and a number of API usages.", 
     image: ClientClock,
     github:"https://github.com/darkquilius/Client-Clock",
-    deployed: "https://darkquilius.github.io/Code-wizards/"},
+    deployed: "https://darkquilius.github.io/Client-Clock/"},
 
     {title: "Daily Planner",
     text: "Complete with color coordination and up to the minute updates using the Moment CDN, this app helps time management.", 
