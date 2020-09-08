@@ -6,7 +6,7 @@ import { faReact, faJs, faNodeJs, faBootstrap, faDocker, faGithub } from "@forta
 
 function HeaderPlate(props){
     return(
-        <div className="flex items-center justify-between bg-teal-500 p-6 border-b-4 border-purple-600">
+        <div className="flex items-center justify-between bg-teal-500 px-6 border-b-4 border-purple-600">
         <div></div>
         <div className=" flex justify-between font-bold text-4xl tracking-tight text-white">
         <div>
