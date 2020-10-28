@@ -19,7 +19,7 @@ Deployed: https://darkquilius.github.io/reeves-portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrew-reeces-web-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrew-reeces-web-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrew-reeves-web-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrew-reeves-web-dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
